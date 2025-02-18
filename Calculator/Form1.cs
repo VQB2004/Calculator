@@ -22,6 +22,7 @@ namespace Calculator
 
             int a, b;
             int z, t;
+            int sum = a + b;
 
         }
     }
