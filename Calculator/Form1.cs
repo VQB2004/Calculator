@@ -19,8 +19,10 @@ namespace Calculator
 
         private void button1_Click(object sender, EventArgs e)
         {
+
             int a, b;
             int z, t;
+
         }
     }
 }
