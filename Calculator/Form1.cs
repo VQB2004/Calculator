@@ -22,6 +22,7 @@ namespace Calculator
 
             int a=0, b=0, tong=0;
             tong = a + b;
+            tong = 2*a+b;
 
 
         }
