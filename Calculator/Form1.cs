@@ -20,8 +20,9 @@ namespace Calculator
         private void button1_Click(object sender, EventArgs e)
         {
 
-            int a, b;
-           
+            int a=0, b=0, tong=0;
+            tong = a + b;
+
 
         }
     }
